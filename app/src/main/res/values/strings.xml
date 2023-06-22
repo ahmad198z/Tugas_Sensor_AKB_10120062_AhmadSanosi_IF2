@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">10120062 Sensor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="nim_101200062">NIM : 101200062</string>
+    <string name="abc">abc</string>
+    <string name="email_ahmad_10120062_mahasiswa_unikom_ac_id">Email : ahmad.10120062@mahasiswa.unikom.ac.id</string>
+    <string name="nama_ahmad_sanosi">Nama : Ahmad Sanosi</string>
+    <string name="kelas_if_2">Kelas : IF-2</string>
+    <string name="my_location">My Location</string>
+    <string name="restoran_terdekat">Restoran Terdekat</string>
+    <string name="ahmad">ahmad</string>
+</resources>
